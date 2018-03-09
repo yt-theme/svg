@@ -1,0 +1,3674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="240"
+   viewBox="0 0 320 240"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mcpanl2.svg">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter19935">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur19937" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer19939">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR19941" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG19943" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB19945" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite19947" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter19949">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur19951" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer19953">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR19955" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG19957" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB19959" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite19961" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter19963">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur19965" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer19967">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR19969" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG19971" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB19973" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite19975" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter19977">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur19979" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer19981">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR19983" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG19985" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB19987" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite19989" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter19991">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur19993" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer19995">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR19997" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG19999" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20001" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20003" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20005">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20007" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20009">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20011" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20013" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20015" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20017" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20019">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20021" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20023">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20025" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20027" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20029" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20031" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20033">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20035" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20037">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20039" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20041" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20043" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20045" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20047">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20049" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20051">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20053" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20055" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20057" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20059" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20061">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20063" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20065">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20067" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20069" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20071" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20073" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20075">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20077" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20079">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20081" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20083" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20085" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20087" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20089">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20091" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20093">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20095" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20097" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20099" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20101" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20103">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20105" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20107">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20109" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20111" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20113" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20115" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20117">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20119" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20121">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20123" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20125" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20127" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20129" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20131">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20133" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20135">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20137" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20139" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20141" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20143" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20145">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20147" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20149">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20151" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20153" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20155" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20157" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20159">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20161" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20163">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20165" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20167" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20169" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20171" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20173">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20175" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20177">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20179" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20181" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20183" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20185" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20187">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20189" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20191">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20193" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20195" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20197" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20199" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20201">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20203" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20205">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20207" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20209" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20211" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20213" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20215">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20217" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20219">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20221" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20223" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20225" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20227" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20229">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20231" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20233">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20235" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20237" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20239" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20241" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20243">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20245" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20247">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20249" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20251" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20253" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20255" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20257">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20259" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20261">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20263" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20265" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20267" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20269" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20271">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20273" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20275">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20277" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20279" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20281" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20283" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20285">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20287" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20289">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20291" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20293" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20295" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20297" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20299">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20301" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20303">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20305" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20307" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20309" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20311" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20313">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20315" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20317">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20319" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20321" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20323" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20325" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20327">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20329" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20331">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20333" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20335" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20337" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20339" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20341">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20343" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20345">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20347" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20349" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20351" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20353" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20355">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20357" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20359">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20361" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20363" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20365" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20367" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20369">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20371" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20373">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20375" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20377" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20379" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20381" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20383">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20385" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20387">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20389" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20391" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20393" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20395" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20397">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20399" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20401">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20403" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20405" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20407" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20409" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20411">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20413" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20415">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20417" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20419" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20421" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20423" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20425">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20427" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20429">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20431" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20433" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20435" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20437" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20439">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20441" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20443">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20445" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20447" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20449" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20451" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20453">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20455" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20457">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20459" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20461" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20463" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20465" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20467">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20469" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20471">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20473" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20475" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20477" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20479" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20481">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20483" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20485">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20487" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20489" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20491" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20493" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20495">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20497" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20499">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20501" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20503" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20505" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20507" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20509">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20511" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20513">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20515" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20517" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20519" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20521" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20523">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20525" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20527">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20529" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20531" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20533" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20535" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20537">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20539" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20541">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20543" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20545" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20547" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20549" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20551">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20553" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20555">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20557" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20559" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20561" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20563" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20565">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20567" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20569">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20571" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20573" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20575" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20577" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20579">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20581" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20583">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20585" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20587" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20589" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20591" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20593">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20595" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20597">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20599" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20601" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20603" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20605" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20607">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20609" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20611">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20613" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20615" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20617" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20619" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20621">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20623" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20625">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20627" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20629" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20631" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20633" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20635">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20637" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20639">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20641" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20643" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20645" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20647" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20649">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20651" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20653">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20655" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20657" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20659" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20661" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20663">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20665" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20667">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20669" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20671" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20673" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20675" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20677">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20679" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20681">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20683" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20685" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20687" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20689" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20691">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20693" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20695">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20697" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20699" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20701" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20703" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20705">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20707" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20709">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20711" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20713" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20715" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20717" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20719">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20721" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20723">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20725" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20727" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20729" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20731" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20733">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20735" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20737">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20739" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20741" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20743" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20745" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20747">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20749" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20751">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20753" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20755" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20757" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20759" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20761">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20763" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20765">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20767" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20769" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20771" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20773" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20775">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20777" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20779">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20781" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20783" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20785" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20787" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20789">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20791" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20793">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20795" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20797" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20799" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20801" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20803">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20805" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20807">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20809" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20811" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20813" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20815" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20817">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20819" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20821">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20823" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20825" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20827" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20829" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20831">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20833" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20835">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20837" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20839" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20841" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20843" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20845">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20847" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20849">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20851" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20853" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20855" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20857" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20859">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20861" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20863">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20865" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20867" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20869" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20871" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20873">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20875" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20877">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20879" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20881" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20883" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20885" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20887">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20889" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20891">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20893" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20895" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20897" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20899" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20901">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20903" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20905">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20907" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20909" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20911" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20913" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20915">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20917" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20919">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20921" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20923" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20925" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20927" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20929">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20931" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20933">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20935" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20937" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20939" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20941" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20943">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20945" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20947">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20949" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20951" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20953" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20955" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20957">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20959" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20961">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20963" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20965" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20967" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20969" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20971">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20973" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20975">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20977" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20979" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20981" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20983" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20985">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur20987" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer20989">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR20991" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG20993" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB20995" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite20997" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter20999">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21001" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21003">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21005" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21007" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21009" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21011" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21013">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21015" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21017">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21019" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21021" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21023" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21025" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21027">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21029" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21031">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21033" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21035" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21037" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21039" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21041">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21043" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21045">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21047" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21049" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21051" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21053" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21055">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21057" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21059">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21061" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21063" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21065" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21067" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21069">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21071" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21073">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21075" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21077" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21079" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21081" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21083">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21085" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21087">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21089" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21091" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21093" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21095" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21097">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21099" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21101">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21103" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21105" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21107" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21109" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21111">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21113" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21115">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21117" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21119" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21121" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21123" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21125">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21127" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21129">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21131" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21133" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21135" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21137" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21139">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21141" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21143">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21145" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21147" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21149" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21151" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21153">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21155" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21157">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21159" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21161" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21163" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21165" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21167">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21169" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21171">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21173" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21175" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21177" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21179" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21181">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21183" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21185">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21187" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21189" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21191" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21193" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21195">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21197" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21199">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21201" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21203" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21205" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21207" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21209">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21211" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21213">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21215" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21217" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21219" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21221" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21223">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21225" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21227">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21229" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21231" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21233" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21235" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21237">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21239" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21241">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21243" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21245" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21247" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21249" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Posterize Basic"
+       id="filter21251">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="blur1"
+         id="feGaussianBlur21253" />
+      <feComponentTransfer
+         in="blur1"
+         result="component1"
+         id="feComponentTransfer21255">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncR21257" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncG21259" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.166667 0.333333 0.5 0.666667 0.833333 1 1"
+           id="feFuncB21261" />
+      </feComponentTransfer>
+      <feComposite
+         in="component1"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite21263" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="145.22259"
+     inkscape:cy="86.374873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1276"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-812.36213)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4138"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter19935)"
+       transform="matrix(1.1562089,0,0,1.4901202,360.76383,1022.5599)"><flowRegion
+         id="flowRegion4140"><rect
+           id="rect4142"
+           width="320"
+           height="240"
+           x="0"
+           y="0"
+           style="stroke:none;" /></flowRegion><flowPara
+         id="flowPara4144"
+         style="font-size:90px;stroke:none;">洛神云</flowPara></flowRoot>    <g
+       id="g4592"
+       style="stroke:none;fill:#892ca0;filter:url(#filter19949)">
+      <rect
+         ry="0"
+         y="862.36212"
+         x="50"
+         height="19.999992"
+         width="15"
+         id="rect4156"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         y="877.36212"
+         x="50"
+         height="9.9999914"
+         width="50"
+         id="rect4158"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4574"
+       style="stroke:none;fill:#892ca0;filter:url(#filter19963)">
+      <rect
+         ry="8.4179701e-06"
+         y="887.36212"
+         x="85"
+         height="15"
+         width="15"
+         id="rect4162"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="897.36212"
+         x="75"
+         height="14.999991"
+         width="15"
+         id="rect4164"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4578"
+       style="stroke:none;fill:#892ca0;filter:url(#filter19977)">
+      <rect
+         ry="8.4179701e-06"
+         y="907.36212"
+         x="60"
+         height="10"
+         width="30"
+         id="rect4166"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="917.36212"
+         x="55"
+         height="10"
+         width="15"
+         id="rect4168"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="922.36212"
+         x="45"
+         height="15"
+         width="20"
+         id="rect4170"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="932.36212"
+         x="40"
+         height="10"
+         width="10"
+         id="rect4172"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="917.36212"
+         x="70"
+         height="10"
+         width="30"
+         id="rect4174"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="927.36212"
+         x="80"
+         height="10"
+         width="10"
+         id="rect4176"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="927.36212"
+         x="90"
+         height="10.000009"
+         width="15"
+         id="rect4178"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter19991)"
+       id="rect4180"
+       width="55"
+       height="49.999931"
+       x="45"
+       y="937.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter20005)"
+       id="rect4182"
+       width="25"
+       height="20.000008"
+       x="60"
+       y="952.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20019)"
+       id="rect4184"
+       width="25"
+       height="20.000008"
+       x="120"
+       y="862.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20033)"
+       id="rect4188"
+       width="35"
+       height="15"
+       x="115"
+       y="887.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#ab37c8;fill-opacity:1;stroke:none;filter:url(#filter20047)"
+       id="rect4190"
+       width="10"
+       height="90"
+       x="130"
+       y="902.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20061)"
+       id="rect4192"
+       width="15"
+       height="30"
+       x="115"
+       y="917.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#ab37c8;fill-opacity:1;stroke:none;filter:url(#filter20075)"
+       id="rect4194"
+       width="10"
+       height="15"
+       x="140"
+       y="932.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20089)"
+       id="rect4196"
+       width="50"
+       height="70"
+       x="155"
+       y="887.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20103)"
+       id="rect4198"
+       width="10"
+       height="124.99993"
+       x="175"
+       y="867.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter20117)"
+       id="rect4200"
+       width="10"
+       height="20.000008"
+       x="165"
+       y="897.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter20131)"
+       id="rect4202"
+       width="10"
+       height="20.000008"
+       x="185"
+       y="897.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter20145)"
+       id="rect4204"
+       width="10"
+       height="19.999992"
+       x="165"
+       y="927.36212"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter20159)"
+       id="rect4206"
+       width="10"
+       height="20.000008"
+       x="185"
+       y="927.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20173)"
+       id="rect4211"
+       width="75"
+       height="24.999992"
+       x="230"
+       y="862.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#ab37c8;fill-opacity:1;stroke:none;filter:url(#filter20187)"
+       id="rect4213"
+       width="95"
+       height="15"
+       x="220"
+       y="912.36212"
+       ry="8.4179701e-06" />
+    <g
+       id="g4612"
+       style="stroke:none;fill:#892ca0;filter:url(#filter20201)">
+      <rect
+         ry="8.4179701e-06"
+         y="927.36212"
+         x="245"
+         height="20"
+         width="20"
+         id="rect4215"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="947.36212"
+         x="225"
+         height="40.000008"
+         width="40"
+         id="rect4217"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4635"
+       style="stroke:none;fill:#892ca0;filter:url(#filter20215)">
+      <rect
+         ry="8.4179701e-06"
+         y="962.36212"
+         x="265"
+         height="15"
+         width="25"
+         id="rect4222"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="937.36212"
+         x="280"
+         height="25"
+         width="25"
+         id="rect4224"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#ab37c8;fill-opacity:1;stroke:none;filter:url(#filter20229)"
+       id="rect4226"
+       width="25"
+       height="25"
+       x="290"
+       y="962.36212"
+       ry="8.4179701e-06" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20243)"
+       id="rect4228"
+       width="20"
+       height="25"
+       x="15"
+       y="872.36212" />
+    <rect
+       style="fill:#892ca0;fill-opacity:1;stroke:none;filter:url(#filter20257)"
+       id="rect4230"
+       width="20"
+       height="25"
+       x="15"
+       y="907.36212" />
+    <rect
+       style="fill:#ab37c8;fill-opacity:1;stroke:none;filter:url(#filter20271)"
+       id="rect4232"
+       width="20"
+       height="50"
+       x="15"
+       y="937.36212" />
+    <g
+       id="g4570"
+       style="stroke:none;fill:#892ca0;filter:url(#filter20285)">
+      <rect
+         ry="8.4179701e-06"
+         y="887.36212"
+         x="45"
+         height="10"
+         width="10"
+         id="rect4234"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="8.4179701e-06"
+         y="897.36212"
+         x="40"
+         height="10"
+         width="10"
+         id="rect4236"
+         style="fill:#892ca0;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20299)"
+       d="m 15,897.36213 5,5 20,0 0,-25 -5,-5 -20,0 z"
+       id="path10609"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20313)"
+       d="m 35,897.36213 -20,0 20,0 5,5 z"
+       id="path10611"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20327)"
+       d="m 35,897.36213 0,-25 z"
+       id="path10613"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20341)"
+       d="m 35,872.36213 0,25 5,5 0,-25 z"
+       id="path10615"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20355)"
+       d="m 35,897.36213 -20,0 5,5 20,0 z"
+       id="path10617"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20369)"
+       d="m 35,907.36213 5,5 0,25 -20,0 -5,-5 20,0 5,5 0,-25 z"
+       id="path10619"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20383)"
+       d="m 35,932.36213 0,-25 5,5 0,25 z"
+       id="path10621"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20397)"
+       d="m 15,932.36213 20,0 5,5 -20,0 z"
+       id="path10623"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20411)"
+       d="m 35,937.36213 5,5 0,50 -20,0 -5,-5 20,0 z"
+       id="path10625"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20425)"
+       d="m 65,862.36213 5,5 0,10 -5,0 z"
+       id="path10627"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20439)"
+       d="m 60,887.36213 0,15 -5,0 0,10 -10,0 -5,-5 10,0 0,-10 5,0 0,-10 z"
+       id="path10629"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20453)"
+       d="m 100,877.36213 5,5 0,25 -10,0 0,10 -5,0 0,-15 10,0 z"
+       id="path10631"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20467)"
+       d="m 100,917.36213 5,5 0,5 5,5 0,10 -5,0 0,50 -55,0 -5,-5 55,0 0,-50 5,0 0,-10 -5,0 z"
+       id="path10633"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20481)"
+       d="m 65,957.36213 20,0 0,-5 -25,0 0,20 5,0 z"
+       id="path10635"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20495)"
+       d="m 70,932.36213 10,0 0,-5 -15,0 0,10 5,0 z"
+       id="path10637"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20509)"
+       d="m 40,942.36213 5,5 0,-5 z"
+       id="path10639"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20523)"
+       d="m 60,892.36213 25,0 0,-5 -25,0 -5,0 0,5 z"
+       id="path10641"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#892ca0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20537)"
+       d="m 15,937.36213 0,20 20,0 0,-20 z"
+       id="path10643"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#892ca0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20551)"
+       d="m 15,957.36213 c 5,0 20,0 20,0 l 0,20 -20,0 z"
+       id="path10645"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20565)"
+       d="m 145,862.36213 5,5 0,20 -25,0 -5,-5 25,0 z"
+       id="path10647"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20579)"
+       d="m 150,887.36213 5,5 0,15 -10,0 0,25 5,0 5,5 0,15 -10,0 0,45 -10,0 -5,-5 10,0 0,-45 10,0 0,-15 -10,0 0,-30 10,0 z"
+       id="path10649"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20593)"
+       d="m 115,902.36213 5,5 10,0 0,-5 z"
+       id="path10651"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20607)"
+       d="m 115,947.36213 5,5 10,0 0,-5 z"
+       id="path10653"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20621)"
+       d="m 185,867.36213 5,5 0,15 15,0 5,5 0,70 -20,0 0,35 -10,0 -5,-5 10,0 0,-35 20,0 0,-70 -20,0 z"
+       id="path10655"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20635)"
+       d="m 155,957.36213 5,5 15,0 0,-5 z"
+       id="path10657"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20649)"
+       d="m 170,902.36213 5,0 0,-5 -10,0 0,20 5,0 z"
+       id="path10659"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20663)"
+       d="m 190,902.36213 5,0 0,-5 -10,0 0,20 5,0 z"
+       id="path10661"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20677)"
+       d="m 170,932.36213 5,0 0,-5 -10,0 0,20 5,0 z"
+       id="path10663"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20691)"
+       d="m 190,932.36213 5,0 0,-5 -10,0 0,20 5,0 0,-15 z"
+       id="path10665"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20705)"
+       d="m 305,862.36213 5,5 0,25 -75,0 -5,-5 75,0 z"
+       id="path10667"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20719)"
+       d="m 315,912.36213 5,5 0,15 -50,0 0,30 -5,0 0,-35 50,0 z"
+       id="path10669"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20733)"
+       d="m 220,927.36213 5,5 20,0 0,-5 z"
+       id="path10671"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20747)"
+       d="m 305,937.36213 5,5 0,20 -5,0 z"
+       id="path10673"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20761)"
+       d="m 315,962.36213 5,5 0,25 -25,0 -5,-5 25,0 z"
+       id="path10675"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#9d93ac;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20775)"
+       d="m 265,987.36213 5,-5 0,-5 -5,0 z"
+       id="path10677"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20789)"
+       d="m 225,987.36213 5,5 40,0 0,-15 -5,0 0,10 z"
+       id="path10679"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ab37c8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20803)"
+       d="m 35,977.36213 5,5 0,-20 -5,-5 z"
+       id="path10681"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bc5fd3;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20817)"
+       d="m 35,987.36213 5,5 0,-10 -5,-5 z"
+       id="path10683"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#892ca0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20831)"
+       d="m 35,957.36213 5,5 0,-20 -5,-5 z"
+       id="path10685"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ab37c8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20845)"
+       d="m 35,932.36213 5,5 0,-25 -5,-5 z"
+       id="path10687"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20859)"
+       d="m 35,872.36213 0,25 5,5 0,-25 z"
+       id="path10689"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20873)"
+       d="m 55,897.36213 5,5 0,-10 -5,-5 z"
+       id="path10694"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20887)"
+       d="m 50,907.36213 5,5 0,-10 -5,-5 z"
+       id="path10696"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20901)"
+       d="m 65,862.36213 5,5 0,10 -5,0 z"
+       id="path10698"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20915)"
+       d="m 100,877.36213 5,5 0,25 -5,-5 0,-25 0,0 z"
+       id="path10700"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20929)"
+       d="m 90,902.36213 5,5 0,10 -5,0 z"
+       id="path10702"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20943)"
+       d="m 100,917.36213 5,5 0,5 -5,0 0,-10 0,0 z"
+       id="path10704"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20957)"
+       d="m 105,927.36213 5,5 0,10 -5,-5 z"
+       id="path10706"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20971)"
+       d="m 100,937.36213 5,5 c 0,0 0,50 0,50 l -5,-5 z"
+       id="path10708"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20985)"
+       d="m 65,927.36213 5,5 0,5 -5,0 z"
+       id="path10710"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter20999)"
+       d="m 60,952.36213 5,5 0,15 -5,0 z"
+       id="path10712"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21013)"
+       d="m 145,862.36213 5,5 0,20 -5,-5 z"
+       id="path10714"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21027)"
+       d="m 150,887.36213 5,5 0,15 -5,-5 z"
+       id="path10716"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21041)"
+       d="m 140,902.36213 5,5 0,25 -5,0 z"
+       id="path10718"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21055)"
+       d="m 150,932.36213 5,5 0,15 -5,-5 z"
+       id="path10720"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21069)"
+       d="m 140,947.36213 5,5 0,45 -5,-5 z"
+       id="path10724"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21083)"
+       d="m 185,867.36213 5,5 0,15 -5,0 z"
+       id="path10726"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21097)"
+       d="m 205,887.36213 5,5 0,70 -5,-5 z"
+       id="path10728"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21111)"
+       d="m 165,897.36213 5,5 0,15 -5,0 z"
+       id="path10730"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21125)"
+       d="m 185,897.36213 5,5 0,15 -5,0 z"
+       id="path10732"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21139)"
+       d="m 165,927.36213 5,5 0,15 -5,0 z"
+       id="path10734"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21153)"
+       d="m 185,927.36213 5,5 0,15 -5,0 z"
+       id="path10736"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21167)"
+       d="m 185,957.36213 5,5 0,35 -5,-5 z"
+       id="path10738"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21181)"
+       d="m 305,862.36213 5,5 0,25 -5,-5 z"
+       id="path10740"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21195)"
+       d="m 315,912.36213 5,5 0,15 -5,-5 z"
+       id="path10742"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21209)"
+       d="m 265,927.36213 5,5 0,30 -5,0 z"
+       id="path10744"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21223)"
+       d="m 265,977.36213 5,0 0,15 -5,-5 z"
+       id="path10746"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21237)"
+       d="m 315,962.36213 5,5 0,25 -5,-5 z"
+       id="path10748"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cd87de;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter21251)"
+       d="m 305,937.36213 5,5 0,20 -5,0 z"
+       id="path10750"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
